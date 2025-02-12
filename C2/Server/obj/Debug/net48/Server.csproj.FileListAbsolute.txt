@@ -1,0 +1,10 @@
+E:\杂项\My_C2\C2\Server\bin\Debug\net48\Server.exe.config
+E:\杂项\My_C2\C2\Server\bin\Debug\net48\Server.exe
+E:\杂项\My_C2\C2\Server\bin\Debug\net48\Server.pdb
+E:\杂项\My_C2\C2\Server\obj\Debug\net48\Server.csproj.AssemblyReference.cache
+E:\杂项\My_C2\C2\Server\obj\Debug\net48\Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\杂项\My_C2\C2\Server\obj\Debug\net48\Server.AssemblyInfoInputs.cache
+E:\杂项\My_C2\C2\Server\obj\Debug\net48\Server.AssemblyInfo.cs
+E:\杂项\My_C2\C2\Server\obj\Debug\net48\Server.csproj.CoreCompileInputs.cache
+E:\杂项\My_C2\C2\Server\obj\Debug\net48\Server.exe
+E:\杂项\My_C2\C2\Server\obj\Debug\net48\Server.pdb

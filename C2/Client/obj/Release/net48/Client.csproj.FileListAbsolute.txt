@@ -1,0 +1,10 @@
+E:\杂项\My_C2\C2\Client\bin\Release\net48\Client.exe.config
+E:\杂项\My_C2\C2\Client\bin\Release\net48\Client.exe
+E:\杂项\My_C2\C2\Client\bin\Release\net48\Client.pdb
+E:\杂项\My_C2\C2\Client\obj\Release\net48\Client.csproj.AssemblyReference.cache
+E:\杂项\My_C2\C2\Client\obj\Release\net48\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\杂项\My_C2\C2\Client\obj\Release\net48\Client.AssemblyInfoInputs.cache
+E:\杂项\My_C2\C2\Client\obj\Release\net48\Client.AssemblyInfo.cs
+E:\杂项\My_C2\C2\Client\obj\Release\net48\Client.csproj.CoreCompileInputs.cache
+E:\杂项\My_C2\C2\Client\obj\Release\net48\Client.exe
+E:\杂项\My_C2\C2\Client\obj\Release\net48\Client.pdb
